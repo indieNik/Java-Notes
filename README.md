@@ -206,4 +206,3 @@ The ? is like a WildCard and takes in any Object
 Variations:
 ? extends Vehicle : It takes Objects of Vehicle and its sub classes. Not Some other Class (Like Employee)
 ? super FourWheeler : This takes only the Super Classes of 4 Wheeler Class (Like Vehicle and Object)
-
